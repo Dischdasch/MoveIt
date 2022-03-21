@@ -7,7 +7,7 @@ The Project was realized using the Processing Framework.
 Installation: You need the opencv_processing as well as the video library in your processing libraries folder.
 
 Use:
-The user can run the program and start the game pressing enter. The goal is to gain as many points as possible in a set period of time
+The user can run the program and start the game pressing enter. The goal is to gain as many points as possible in a set period of time.
 
 Recommended sorrounding: The player should keep a distance of about 2m from the webcam and be on the screen with the whole body. 
 A neutral and still background are recommended.
